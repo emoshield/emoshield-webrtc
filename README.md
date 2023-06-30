@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# WebRTC 구현을 위한 리액트 프로젝트입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
